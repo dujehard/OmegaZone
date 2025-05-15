@@ -16,7 +16,7 @@ Lo que alguna vez fue un referente, hoy lucha por mantener una imagen que ya no 
     </caption>
     <tr>
       <th scope="row">Descarga</th>
-      <th scope="col"><a href="https://raw.githubusercontent.com/dujehard/OmegaZone/refs/heads/main/Descarga%20-%20Gamemode%20y%20Web.rar">Enlaces</a></th>
+      <th scope="col"><a href="https://github.com/dujehard/OmegaZone/releases/tag/BASE">Enlaces</a></th>
     </tr>
   </table>
 </div>
